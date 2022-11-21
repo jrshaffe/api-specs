@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  title: Joels SUPER AWESOME Swagger Petstore - OpenAPI 3.0
+  title: Joels MEGA AWESOME Swagger Petstore - OpenAPI 3.0
   description: "This is a sample Pet Store Server based on the OpenAPI 3.0 specification.\
     \  You can find out more about\nSwagger at [http://swagger.io](http://swagger.io).\
     \ In the third iteration of the pet store, we've switched to the design first\
